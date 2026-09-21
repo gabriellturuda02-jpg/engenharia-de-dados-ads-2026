@@ -228,6 +228,8 @@ O perfil de Cauã apresenta:
 
 O resumo do perfil informa experiência prática e acadêmica em desenvolvimento web e lógica de programação, além de mencionar aplicações de autoatendimento e sistemas de gestão de pedidos desenvolvidos com Python, CustomTkinter e Flask.
 
+No momento, possuo conhecimentos técnicos na área de tecnologia, principalmente relacionados a linguagens de programação, bancos de dados e SQL, adquiridos ao longo da minha formação e dos meus estudos. Tenho familiaridade com esses conteúdos e venho buscando aprimorar minhas habilidades e ampliar meus conhecimentos na área. No entanto, ainda não desenvolvi projetos próprios mais elaborados que permitam aplicar e demonstrar esses conhecimentos de forma prática. Mas pretendo evoluir nesse aspecto, desenvolvendo projetos que contribuam para minha experiência, meu portfólio e minha preparação para o mercado de trabalho.
+
 **Rede:** 28 conexões e 28 seguidores na captura analisada.
 
 **Atividade:** o perfil informa que não havia publicações recentes no momento da captura.
