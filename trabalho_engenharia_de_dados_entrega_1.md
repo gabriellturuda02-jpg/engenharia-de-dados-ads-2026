@@ -478,6 +478,8 @@ O objetivo profissional informado para o projeto é Engenharia de Dados.
 
 Isabella informou que este é seu primeiro contato com a área de tecnologia e programação. Seu conhecimento técnico ainda é introdutório, principalmente relacionado ao conteúdo inicial da faculdade, e ela ainda não possui projetos próprios.
 
+Comentário da Integrante: Atualmente, ainda não possuo conhecimentos técnicos aprofundados na área de tecnologia e ingressei na graduação justamente com o objetivo de me desenvolver e me inserir nesse campo. Hoje, curso na mesma instituição, Análise e Desenvolvimento de Sistemas e Biomedicina, com o intuito de integrar os conhecimentos adquiridos nas duas graduações e construir uma carreira que una tecnologia, saúde, biotecnologia e pesquisa.
+
 ### Análise
 
 A principal característica do perfil é o início da formação técnica. Portanto, o plano precisa priorizar fundamentos antes de ferramentas avançadas.
