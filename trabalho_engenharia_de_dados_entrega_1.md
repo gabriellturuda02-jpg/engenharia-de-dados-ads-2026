@@ -316,6 +316,9 @@ Na análise anterior do perfil público, foi identificado um repositório públi
 
 **Resumo atual:** o perfil apresenta Gabriel como estudante de Análise e Desenvolvimento de Sistemas, no início da jornada em TI, com interesse em programação e cibersegurança e objetivo de aprender, adquirir experiência e crescer profissionalmente.
 
+Como próximo passo, pretendo fortalecer meus conhecimentos em Python e SQL e desenvolver projetos práticos relacionados à Engenharia de Dados para construir meu portfólio profissional. Também quero aprender cada vez mais sobre tecnologia, colocar em prática o que estou aprendendo na faculdade e buscar experiências que me ajudem a crescer na área de TI. A ideia é continuar estudando, evoluindo aos poucos para estar preparado para as oportunidades do mercado.
+
+
 ### Análise
 
 O posicionamento atual está mais relacionado a desenvolvimento de software e cibersegurança do que especificamente à Engenharia de Dados. Como o objetivo definido para o projeto é Engenharia de Dados, existe uma oportunidade de ajustar progressivamente o posicionamento para incluir Python, SQL, bancos de dados e engenharia de dados.
